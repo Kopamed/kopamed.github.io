@@ -1,4 +1,4 @@
-#My portoflolio 
+# My portoflolio 
 or smthing i dont even know
 
 "Linux is a windows application"

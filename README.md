@@ -17,4 +17,4 @@ Kind of skidded, but I will remake this with my own code when school ends.
  - link the navbar with content
 
 
-![Lets hope my exams weren-t a faillure](https://kopamed.cf/cats_vibing.gif)
+![when the website is vibing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-z2lmTl5CUMS5IM1gYoF_zzCp5qC-OxO8EPCYpiS6tsJPTsvw-cWpI3s0h_SqVcIV3mpLs70ArXgbA2z-yg:https://i.ytimg.com/vi/NUYvbT6vTPs/maxresdefault.jpg&usqp=CAU)

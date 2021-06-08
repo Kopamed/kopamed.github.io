@@ -1,37 +1,20 @@
-## Welcome to My... Github Page!
+#My portoflolio 
+or smthing i dont even know
 
-You can use the [editor on GitHub](https://github.com/Kopamed/kopamed.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+"Linux is a windows application"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kind of skidded, but I will remake this with my own code when school ends.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Todo
+ - Add my fav funnies
+ - Add contact info
+ - change bg
+ - Add some fo my shitty codes
+ - Remmake (gon do that when school ends)
+ - add more funnies
+ - Credit bg creator (semi done)
+ - link the navbar with content
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kopamed/kopamed.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Lets hope my exams weren-t a faillure](https://kopamed.cf/cats_vibing.gif)
